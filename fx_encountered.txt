@@ -1,0 +1,5 @@
+substr - https://www.w3schools.com/sql/func_mysql_substr.asp
+rank - windows fx, same value pr same rank deta h bt next ko skipped deta h
+dense_rank - window fx, rank ki treh h bs skipping nhi krta h
+DATE_ADD(`your_field_name`, INTERVAL 2 DAY) - adding time to a date by the decided unit and interval
+cast - cast(12 as int)
