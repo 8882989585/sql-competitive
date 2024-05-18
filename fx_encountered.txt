@@ -3,3 +3,8 @@ rank - windows fx, same value pr same rank deta h bt next ko skipped deta h
 dense_rank - window fx, rank ki treh h bs skipping nhi krta h
 DATE_ADD(`your_field_name`, INTERVAL 2 DAY) - adding time to a date by the decided unit and interval
 cast - cast(12 as int)
+FLOOR - round to lower value
+CEIL - round to upper value
+row_number - windows ke sath hi use hota h, iske koi parameter nhi hote.
+ROUND - parameter column ka naam aur kahan tk round krna h
+SUM - normal it is sum with windows it becomes cumulative sum.
